@@ -1,4 +1,4 @@
-# INFOSEC-Important-Information!456
+# INFOSEC-Important-Information!
 
 # ISO
 https://www.iso.org/standards.html
